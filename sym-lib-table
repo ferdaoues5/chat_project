@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "STM32G070RBT6")(type "KiCad")(uri "${KIPRJMOD}/STM32G070RBT6.kicad_sym")(options "")(descr ""))
+  (lib (name "GP2Y0D805Z0F")(type "KiCad")(uri "${KIPRJMOD}/GP2Y0D805Z0F.kicad_sym")(options "")(descr ""))
+  (lib (name "Lidar")(type "KiCad")(uri "${KIPRJMOD}/Lidar.kicad_sym")(options "")(descr ""))
+)
