@@ -11,6 +11,8 @@ Une liste de composants nous a été imposée.
 
 **Liste du matériel**
 
+On utilise le microcontroleur STM32G070RBT6 pour récupérer les données provenants des capteurs, commander les moteurs...
+
 | Capteurs  | Actionneurs | IHM | Horloge |
 | ------------- | ------------- | ------------- | ------------- |
 | Détection des autres robots : YDLIDAR X4  | 2 Drivers moteurs : ZXBM5210-S | Interrupteur ON/OFF| Quartz 16 MHz |
