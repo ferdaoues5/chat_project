@@ -1,4 +1,4 @@
-# Projet ESE
+# Projet ESE  — Robot chat/souris
 
 ## Résumé 
 Le but du projet est de concevoir un robot capable de se déplacer sur une table (sans tomber de la table), évitant les obstacles, et détectant les autres robots se trouvant sur la table. 
