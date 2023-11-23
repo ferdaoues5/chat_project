@@ -14,8 +14,8 @@ Une liste de composants nous a été imposée.
 | Capteurs  | Actionneurs | IHM | Horloge |
 | ------------- | ------------- | ------------- | ------------- |
 | Détection des autres robots : YDLIDAR X4  | 2 Drivers moteurs : ZXBM5210-S | Interrupteur ON/OFF| Quartz 16 MHz |
-| Capteurs de bordure (table) : Sharp GP2Y0D805Z0F  | 2 moteurs : DfRobot FIT0520 ou FIT0521 |  |  |
-| Bumpers (détection de collision)  | | |  |
+| Capteurs de bordure (table) : Sharp GP2Y0D805Z0F  | 2 moteurs : DfRobot FIT0520 ou FIT0521 | LEDs indicatives du rôle (chat ou souris)  |  |
+| Bumpers (détection de collision)  | | Led de débogage |  |
 |Encodeur (pour mesurer vitesse moteur il me semble) | | |  |
 
 ## Deadlines
