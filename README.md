@@ -27,12 +27,12 @@ Une liste de composants nous a été imposée.
 - Organisation du code
 - Stratégie et comportements
   
-Vacances noel : Samedi 23 décembre au Dimanche 7 janvier
-**Après noel**
-Dernière séance : stratégie et comportements
-TP d’Introduction à la robotique
-**Challenge** le vendredi 12 janvier
-Fin du semestre : Samedi 13 janvier
+Vacances noel : Samedi 23 décembre au Dimanche 7 janvier  
+**Après noel**  
+Dernière séance : stratégie et comportements  
+TP d’Introduction à la robotique  
+**Challenge** le vendredi 12 janvier  
+Fin du semestre : Samedi 13 janvier  
 
 ## Objectifs restants 
 **23/11/2023** On a fini le PCB, soudé tous les composants qu'il fallait. Il nous reste maintenant à nous occuper du programme dans le microcontroleur.
