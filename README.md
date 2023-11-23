@@ -28,10 +28,13 @@ Une liste de composants nous a été imposée.
 - Stratégie et comportements
   
 Vacances noel : Samedi 23 décembre au Dimanche 7 janvier  
+
 **Après noel**  
 Dernière séance : stratégie et comportements  
 TP d’Introduction à la robotique  
-**Challenge** le vendredi 12 janvier  
+
+**Challenge** le vendredi 12 janvier
+
 Fin du semestre : Samedi 13 janvier  
 
 ## Objectifs restants 
