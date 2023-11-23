@@ -38,7 +38,7 @@ TP d’Introduction à la robotique
 Fin du semestre : Samedi 13 janvier  
 
 ## Objectifs restants 
-**23/11/2023** On a fini le PCB, soudé tous les composants qu'il fallait. Il nous reste maintenant à nous occuper du programme dans le microcontroleur.
+**23/11/2023** On a fini le PCB, soudé tous les composants qu'il fallait. Il nous reste maintenant à nous occuper de l'architecture logicielle dans le microcontroleur.
 1 niveau d'objectifs au minimum doit être accompli par semaine.
 
 **Niveau 0 :**
