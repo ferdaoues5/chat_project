@@ -10,7 +10,7 @@ Une liste de composants nous a été imposée.
 ![alt text](https://github.com/ferdaoues5/chat_project/blob/main/architectural.PNG?raw=true)
 
 ## Objectifs restants 
-23/11/2023 On a fini le PCB, soudé tous les composants qu'il fallait. Il nous reste maintenant à nous occuper du programme dans le microcontroleur.
+**23/11/2023** On a fini le PCB, soudé tous les composants qu'il fallait. Il nous reste maintenant à nous occuper du programme dans le microcontroleur.
 1 niveau d'objectifs au minimum doit être accompli par semaine.
 
 **Niveau 0 :**
