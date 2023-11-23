@@ -9,6 +9,31 @@ Une liste de composants nous a été imposée.
 ## 1. Schéma architectural de notre robot
 ![alt text](https://github.com/ferdaoues5/chat_project/blob/main/architectural.PNG?raw=true)
 
+**Liste du matériel**
+
+| Capteurs  | Actionneurs | IHM | Horloge |
+| ------------- | ------------- | ------------- | ------------- |
+| Détection des autres robots : YDLIDAR X4  | 2 Drivers moteurs : ZXBM5210-S | Interrupteur ON/OFF| Quartz 16 MHz |
+| Capteurs de bordure (table) : Sharp GP2Y0D805Z0F  | 2 moteurs : DfRobot FIT0520 ou FIT0521 |  |  |
+| Bumpers (détection de collision)  | | |  |
+|Encodeur (pour mesurer vitesse moteur il me semble) | | |  |
+
+## Deadlines
+
+**Entre la toussaint et noel**
+
+- Bibliothèques logicielles
+- Drivers
+- Organisation du code
+- Stratégie et comportements
+  
+Vacances noel : Samedi 23 décembre au Dimanche 7 janvier
+**Après noel**
+Dernière séance : stratégie et comportements
+TP d’Introduction à la robotique
+**Challenge** le vendredi 12 janvier
+Fin du semestre : Samedi 13 janvier
+
 ## Objectifs restants 
 **23/11/2023** On a fini le PCB, soudé tous les composants qu'il fallait. Il nous reste maintenant à nous occuper du programme dans le microcontroleur.
 1 niveau d'objectifs au minimum doit être accompli par semaine.
