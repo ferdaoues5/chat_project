@@ -1,0 +1,3 @@
+../Core/Src/lidar.c:34:6:HAL_UART_RxHalfCpltCallback	24	static
+../Core/Src/lidar.c:42:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/lidar.c:53:6:lidarDataRecup	32	static
