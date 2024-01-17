@@ -61,7 +61,7 @@ Il est donc capable de se localiser.
 
 ## Problèmes rencontrés
 
-### - Mauvaise liaison du 5V entre la broche du Lidar et un autre point du circuit sensé recevoir 5V aussi
+### - Mauvaise liaison du 5V entre la broche du Lidar et un autre point du circuit censé recevoir 5V aussi
 
 __Résolution du problème__ : en soudant un câble entre ces deux points.
 
